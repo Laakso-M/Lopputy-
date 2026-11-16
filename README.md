@@ -11,3 +11,14 @@ Projekti on Git, VS Code ja GitHub lopputyö.
 - Git cherry-pick ja rebase
 - Git tag ja .gitignore
 - GitHub Pull Request
+
+## Gitin peruskomennot
+
+Projektin seuraavat komennot:
+
+- git clone: Kloonaa GitHub-repositorion.
+- git status: Näyttää tiedostojen muutokset.
+- git add: Lisää muutokset.
+- git commit: Tallentaa muutokset.
+- git push: Lähettää muutokset GitHubiin.
+- git switch: Vaihtaa haaraa.
