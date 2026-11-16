@@ -1,2 +1,13 @@
-# Lopputy-
-Lopputyö 15.11.-26
+# Git ja GitHub -lopputyö
+
+Projekti on Git, VS Code ja GitHub lopputyö.
+
+## Harjoiteltavat asiat
+
+- Git commit ja push
+- Git branch ja merge
+- Merge-konfliktien ratkaiseminen
+- Git stash ja revert
+- Git cherry-pick ja rebase
+- Git tag ja .gitignore
+- GitHub Pull Request
