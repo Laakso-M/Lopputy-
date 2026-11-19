@@ -67,3 +67,7 @@ siirtää commit toisesta haarasta main haaraan.
 
 Projektissa harjoiteltiin Gitin toimintoja
 ja eri haarojen hallintaa.
+## Git rebase -harjoitus
+
+Harjoittelin git rebase -komentoa, jolla feature haara
+voidaan päivittää main haaran uusimpien muutosten päälle.
