@@ -23,3 +23,7 @@ Projektin seuraavat komennot:
 - git commit: Tallentaa muutokset.
 - git push: Lähettää muutokset GitHubiin.
 - git switch: Vaihtaa haaraa.
+
+## Git stash -harjoitus
+
+Väliaikainen muutos, jonka tallennan git stash -komennolla.
