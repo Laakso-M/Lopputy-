@@ -57,3 +57,8 @@ ratkaisemaan Git-konflikteja.
 
 Ymmärsin myös, miten GitHubia käytetään projektin
 muutosten tallentamiseen ja hallintaan.
+
+## Git cherry pick -harjoitus
+
+Harjoittelin git cherry pick -komentoa, jolla voidaan
+siirtää commit toisesta haarasta main haaraan.
