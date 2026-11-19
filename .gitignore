@@ -1,0 +1,9 @@
+# Valiaikaiset tiedostot
+*.log
+*.tmp
+
+# Kayttojarjestelman tiedostot
+.DS_Store
+
+# Editorin valiaikaiset tiedostot
+*.swp
