@@ -62,3 +62,8 @@ muutosten tallentamiseen ja hallintaan.
 
 Harjoittelin git cherry pick -komentoa, jolla voidaan
 siirtää commit toisesta haarasta main haaraan.
+
+## Versionhallinnan kehittäminen
+
+Projektissa harjoiteltiin Gitin toimintoja
+ja eri haarojen hallintaa.
