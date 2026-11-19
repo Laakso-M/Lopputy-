@@ -1,6 +1,7 @@
 # Git ja GitHub -lopputyö
 
 Gitin käyttö ja versiohallinta
+Git konfliktin tekeminen ja ratkaisu
 
 ## Harjoiteltavat asiat
 
