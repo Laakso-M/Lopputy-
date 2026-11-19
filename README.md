@@ -57,7 +57,3 @@ ratkaisemaan Git-konflikteja.
 
 Ymmärsin myös, miten GitHubia käytetään projektin
 muutosten tallentamiseen ja hallintaan.
-
-## Virheellinen muutos
-
-Tämä teksti lisättiin vahingossa ja se perutaan git revert -komennolla.
