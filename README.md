@@ -1,6 +1,6 @@
 # Git ja GitHub -lopputyö
 
-Projekti on Git, VS Code ja GitHub lopputyö.
+Gitin käyttö ja versiohallinta
 
 ## Harjoiteltavat asiat
 
