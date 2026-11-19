@@ -71,3 +71,42 @@ ja eri haarojen hallintaa.
 
 Harjoittelin git rebase -komentoa, jolla feature haara
 voidaan päivittää main haaran uusimpien muutosten päälle.
+
+## Gitin toiminnot
+
+### Git revert
+Tein tarkoituksella virheellisen commitin ja peruin sen
+git revert -komennolla. Opin, että revert luo uuden
+commitin eikä poista aikaisempaa historiaa.
+
+### Git cherry-pick
+Loin erillisen feature haaran ja tein siihen commitin.
+Siirsin yksittäisen commitin main haaraan käyttämällä
+git cherry pick -komentoa.
+
+### Git rebase
+Harjoittelin feature haaran päivittämistä main haaran
+uusimpien muutosten päälle git rebase -komennolla.
+Rebasen aikana syntyi konflikti, jonka ratkaisin
+VS Codessa säilyttämällä molemmat muutokset.
+
+### Git tag
+Loin projektille version v1.0.0 ja lähetin tagin
+GitHubiin.
+
+### .gitignore
+Loin .gitignore-tiedoston, jolla estetään väliaikaisten
+tiedostojen lisääminen versionhallintaan.
+Testasin toimintaa testi.log tiedostolla.
+
+## Yhteenveto
+
+Opin käyttämään Gitin peruskomentoja
+sekä versionhallintatoimintoja.
+
+Haastavinta oli merge- ja rebase konfliktien
+ratkaiseminen. Opin selvittämään konfliktit VS Codessa
+ja jatkamaan versionhallintaa niiden ratkaisemisen jälkeen.
+
+GitHubin avulla opin hallitsemaan projektin eri
+versioita, haaroja ja muutoksia.
