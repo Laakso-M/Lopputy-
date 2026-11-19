@@ -27,3 +27,33 @@ Projektin seuraavat komennot:
 ## Git stash -harjoitus
 
 Väliaikainen muutos, jonka tallennan git stash -komennolla.
+
+## Lopputyön toteutus
+
+Tässä lopputyössä harjoittelin Gitin ja GitHubin käyttöä
+VS Codessa.
+
+Loin GitHub repositorion ja yhdistin sen tietokoneelleni
+SSH-yhteydellä. Harjoittelin tiedostojen lisäämistä,
+commitien tekemistä sekä muutosten lähettämistä GitHubiin.
+
+Loin erillisiä feature haaroja ja yhdistin niitä
+main haaraan. Harjoittelin myös merge-konfliktin
+tekemistä ja ratkaisemista VS Codessa.
+
+Käytin git stash ja git stash pop -komentoja
+keskeneräisten muutosten tallentamiseen ja palauttamiseen.
+
+Tein myös Pull Requestin GitHubissa ja yhdistin
+muutokset päähaaraan.
+
+## Mitä opin?
+
+Opin käyttämään Gitin peruskomentoja ja ymmärtämään,
+miten versionhallinta toimii käytännössä.
+
+Opin luomaan haaroja, yhdistämään niitä sekä
+ratkaisemaan Git-konflikteja.
+
+Ymmärsin myös, miten GitHubia käytetään projektin
+muutosten tallentamiseen ja hallintaan.
