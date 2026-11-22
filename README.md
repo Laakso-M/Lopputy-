@@ -1,4 +1,6 @@
 # Git ja GitHub -lopputyö
+Miikka Laakso 
+2608089
 
 Gitin käyttö ja versiohallinta
 Git konfliktin tekeminen ja ratkaisu
